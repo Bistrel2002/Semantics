@@ -1,5 +1,5 @@
 # Symantec Software Documentation
-![Symantec Logo](https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONTE61A92E0AC054245A3E2D4F77A644FBD/native/customerlogo-broadcom-clr.svg)
+![Symantec Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Broadcom_logo_%282016-present%29.svg/2560px-Broadcom_logo_%282016-present%29.svg.png)
 
 
 ## License
